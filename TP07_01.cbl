@@ -104,7 +104,7 @@
            USING WS-OPCAO.
 
            10   LINE 27 COLUMN 28     FOREGROUND-COLOR  3 VALUE
-           "Desenvolvido por Matheus Palinkas e Joao Tavares".
+           "Desenvolvido por ÉRICA BARBOSA PEREIRA LOBO".
 
        01 SC-PROD-AUMENTO.
            10   LINE 05   COLUMN 36     FOREGROUND-COLOR  8 VALUE
